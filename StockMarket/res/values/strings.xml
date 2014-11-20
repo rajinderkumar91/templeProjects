@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StockMarket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stock_symbol">Stock Symbol : </string>
+    <string name="company_name">Name of the Company : </string>
+    <string name="stock_price">Stock Price : </string>
+    <string name="btn_fetch">Fetch</string>
+    
+
+</resources>
